@@ -1,9 +1,7 @@
 <h1  align="center"> Hello there! I'm <a  href="https://leetcode.com/Onigatari/">Onigatari</a> <img src="https://img.icons8.com/emoji/48/undefined/pool-8-ball.png"  height="32"/> </h1>
 
 
-<h3  align="center"> Student of Computer Science, Semifinalist of the ICPC Olympiad, from Russia <img src="https://img.icons8.com/external-justicon-flat-justicon/24/undefined/external-russia-countrys-flags-justicon-flat-justicon.png"  height="24"/></h3>
-
-[![codewars](https://www.codewars.com/users/Onigatari/badges/small)](https://www.codewars.com/users/Onigatari/badges/small)
+<h3  align="center"> Student of Computer Science, Semifinalist of the ICPC Olympiad, from Russia <img src="https://img.icons8.com/external-justicon-flat-justicon/24/undefined/external-russia-countrys-flags-justicon-flat-justicon.png"  height="18"/></h3>
 
 - ⚙️ I’m currently learning **C++, Python, Go, Machine Learning, JavaScript**
 
@@ -47,4 +45,6 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onigatari)](https://github.com/anuraghazra/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Onigatari&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+[![codewars](https://www.codewars.com/users/Onigatari/badges/large)](https://www.codewars.com/users/Onigatari/badges/small)
