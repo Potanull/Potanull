@@ -24,12 +24,12 @@
 
 <p align="left">
 
-<img href="https://en.cppreference.com/w/cpp" src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png" alt="cplusplus" width="48" height="48"/>
-<img href="https://www.python.org/doc/" src="https://img.icons8.com/color/48/undefined/python--v1.png" alt="python" width="48" height="48"/>
-<img href="https://go.dev/doc/" src="https://img.icons8.com/color/48/undefined/golang.png" alt="golang" width="48" height="48"/>
-<img href="https://developer.mozilla.org/en-US/docs/Web/HTML" src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="html" width="48" height="48"/>
-<img href="https://developer.mozilla.org/en-US/docs/Web/CSS" src="https://img.icons8.com/color/48/undefined/css3.png" alt="css" width="48" height="48"/>
-<img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="js" width="48" height="48"/>
+<a href="https://en.cppreference.com/w/cpp"> <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png" alt="cplusplus" width="48" height="48"/></a>
+<a href="https://www.python.org/doc/"> <img src="https://img.icons8.com/color/48/undefined/python--v1.png" alt="python" width="48" height="48"/></a>
+<a href="https://go.dev/doc/"> <img src="https://img.icons8.com/color/48/undefined/golang.png" alt="golang" width="48" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="html" width="48" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.icons8.com/color/48/undefined/css3.png" alt="css" width="48" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="js" width="48" height="48"/></a>
 
 </p>
 
@@ -37,11 +37,11 @@
 
 <p align="left">
 
-<img src="https://github.com/Onigatari/Onigatari/blob/master/icons/CLion.svg" alt="clion" width="48" height="48"/>
-<img src="https://github.com/Onigatari/Onigatari/blob/master/icons/PyCharm.svg" alt="pycharm" width="48" height="48"/>
-<img src="https://github.com/Onigatari/Onigatari/blob/master/icons/GoLand.svg" alt="goland" width="48" height="48"/>
-<img src="https://github.com/Onigatari/Onigatari/blob/master/icons/VS-code.svg" alt="goland" width="48" height="48"/>
-<img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Jupyter.svg" alt="jupyter" width="48" height="48"/>
+<a href="https://www.jetbrains.com/clion/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/CLion.svg" alt="clion" width="48" height="48"/></a>
+<a href="https://www.jetbrains.com/pycharm/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/PyCharm.svg" alt="pycharm" width="48" height="48"/></a>
+<a href="https://www.jetbrains.com/go/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/GoLand.svg" alt="goland" width="48" height="48"/>
+<a href="https://code.visualstudio.com/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/VS-code.svg" alt="goland" width="48" height="48"/></a>
+<a href="https://jupyter.org/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Jupyter.svg" alt="jupyter" width="48" height="48"/></a>
 
 </p>
 
