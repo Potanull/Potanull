@@ -24,13 +24,10 @@
 
 <p  align="left">
 
-  
-
 <a  href="https://vk.com/onigatari"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/vk-circled.png"  alt="onigatari"  height="48"  width="48"/></a>
+<a  href="https://t.me/Onigatari"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/telegram-app.png"  alt="onigatari"  height="48"  width="48" /></a> 
 
-  
-
-<a  href="https://t.me/Onigatari"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/telegram-app.png"  alt="onigatari"  height="48"  width="48" /></a> </p>
+</p>
 
 ### Languages:
 
@@ -49,6 +46,11 @@
 
 <p align="left">
 
-<img src="https://github.com/Onigatari/Onigatari/blob/master/icons/CLion.svg" alt="git" width="48" height="48"/>
+<img src="https://github.com/Onigatari/Onigatari/blob/master/icons/CLion.svg" alt="clion" width="48" height="48"/>
+<img src="https://github.com/Onigatari/Onigatari/blob/master/icons/PyCharm.svg" alt="pycharm" width="48" height="48"/>
+<img src="https://github.com/Onigatari/Onigatari/blob/master/icons/GoLand.svg" alt="goland" width="48" height="48"/>
+<img src="https://github.com/Onigatari/Onigatari/blob/master/icons/VS-code.svg" alt="goland" width="48" height="48"/>
+<img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Jupyter.svg" alt="jupyter" width="48" height="48"/>
+
 
 </p>
