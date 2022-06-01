@@ -1,4 +1,4 @@
-<h1  align="center"> Hello there! I'm <a  href="https://leetcode.com/Onigatari/">Onigatari</a> <img src="https://img.icons8.com/emoji/48/undefined/pool-8-ball.png"  height="32"/> </h1>
+<h1  align="center"> Hello there! I'm <a  href="https://leetcode.com/Onigatari/">Onigatari</a> </h1>
 
 
 <h3  align="center"> Student of Computer Science, Semifinalist of the ICPC Olympiad, from Russia <img src="https://img.icons8.com/external-justicon-flat-justicon/24/undefined/external-russia-countrys-flags-justicon-flat-justicon.png"  height="18"/></h3>
@@ -7,7 +7,7 @@
 
 - ✅ I like to solve problems on algorithms [**LeerCode**](https://leetcode.com/Onigatari/), [**CodeForces**](https://codeforces.com/profile/Onigatari), [**CodeWar**](https://www.codewars.com/users/Onigatari)
 
-- 📄 How to contact me **[gamosov.gs@yandex.ru](mailto:gamosov.gs@yandex.ru)**
+- 📄 Get in touch **[gamosov.gs@yandex.ru](mailto:gamosov.gs@yandex.ru)**
 
 - 🌍 I speak Russian (Native), English (A2)
 
@@ -24,12 +24,12 @@
 
 <p align="left">
 
-<img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png" alt="cplusplus" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/undefined/python--v1.png" alt="python" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/undefined/golang.png" alt="golang" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="html" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/undefined/css3.png" alt="css" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="js" width="48" height="48"/>
+<img href="https://en.cppreference.com/w/cpp" src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png" alt="cplusplus" width="48" height="48"/>
+<img href="https://www.python.org/doc/" src="https://img.icons8.com/color/48/undefined/python--v1.png" alt="python" width="48" height="48"/>
+<img href="https://go.dev/doc/" src="https://img.icons8.com/color/48/undefined/golang.png" alt="golang" width="48" height="48"/>
+<img href="https://developer.mozilla.org/en-US/docs/Web/HTML" src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="html" width="48" height="48"/>
+<img href="https://developer.mozilla.org/en-US/docs/Web/CSS" src="https://img.icons8.com/color/48/undefined/css3.png" alt="css" width="48" height="48"/>
+<img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="js" width="48" height="48"/>
 
 </p>
 
