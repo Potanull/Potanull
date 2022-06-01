@@ -8,4 +8,4 @@
 -   🌍  I speak Russian (Native), English (A2)
 
 ### Connect with me:
-![https://vk.com/onigatari](https://img.icons8.com/fluency/48/undefined/vk-circled.png)![https://t.me/Onigatari](https://img.icons8.com/fluency/48/undefined/telegram-app.png)
+![https://img.icons8.com/fluency/48/undefined/vk-circled.png](https://vk.com/onigatari)![https://img.icons8.com/fluency/48/undefined/telegram-app.png](https://t.me/Onigatari)
