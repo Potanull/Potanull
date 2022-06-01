@@ -45,6 +45,8 @@
 
 </p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Onigatari&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+---
 
 [![codewars](https://www.codewars.com/users/Onigatari/badges/large)](https://www.codewars.com/users/Onigatari/badges/small)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Onigatari&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
