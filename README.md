@@ -9,7 +9,7 @@
 
 - 📄 Get in touch **[gamosov.gs@yandex.ru](mailto:gamosov.gs@yandex.ru)**
 
-- 🌍 I speak Russian (Native), English (A2)
+- 🌍 Languages: Russian (Native), English (A2)
 
 ### Contacts:
 
