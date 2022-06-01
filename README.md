@@ -5,9 +5,9 @@
 
 - ⚙️ I’m currently learning **C++, Python, Go, Machine Learning, JavaScript**
 
-- ✅ I like solve problems on algorithms [**LeerCode**](https://leetcode.com/Onigatari/), [**CodeForces**](https://codeforces.com/profile/Onigatari), [**CodeWar**](https://www.codewars.com/users/Onigatari)
+- ✅ I like to solve problems on algorithms [**LeerCode**](https://leetcode.com/Onigatari/), [**CodeForces**](https://codeforces.com/profile/Onigatari), [**CodeWar**](https://www.codewars.com/users/Onigatari)
 
-- 📄 How to reach me **[gamosov.gs@yandex.ru](mailto:gamosov.gs@yandex.ru)**
+- 📄 How to contact me **[gamosov.gs@yandex.ru](mailto:gamosov.gs@yandex.ru)**
 
 - 🌍 I speak Russian (Native), English (A2)
 
