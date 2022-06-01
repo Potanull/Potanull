@@ -1,14 +1,9 @@
 <h1  align="center"> Hello there! I'm <a  href="https://leetcode.com/Onigatari/">Onigatari</a> <img src="https://img.icons8.com/emoji/48/undefined/pool-8-ball.png"  height="32"/> </h1>
 
-  
-
-[![codewars](https://www.codewars.com/users/Onigatari/badges/small)](https://www.codewars.com/users/Onigatari/badges/small)
-
-  
 
 <h3  align="center"> Student of Computer Science, Semifinalist of the ICPC Olympiad, from Russia <img src="https://img.icons8.com/external-justicon-flat-justicon/24/undefined/external-russia-countrys-flags-justicon-flat-justicon.png"  height="24"/></h3>
 
-  
+[![codewars](https://www.codewars.com/users/Onigatari/badges/small)](https://www.codewars.com/users/Onigatari/badges/small)
 
 - ⚙️ I’m currently learning **C++, Python, Go, Machine Learning, JavaScript**
 
@@ -17,8 +12,6 @@
 - 📄 How to reach me **[gamosov.gs@yandex.ru](mailto:gamosov.gs@yandex.ru)**
 
 - 🌍 I speak Russian (Native), English (A2)
-
-  
 
 ### Contacts:
 
@@ -52,5 +45,6 @@
 <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/VS-code.svg" alt="goland" width="48" height="48"/>
 <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Jupyter.svg" alt="jupyter" width="48" height="48"/>
 
-
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onigatari)](https://github.com/anuraghazra/github-readme-stats)
