@@ -49,9 +49,4 @@
 
 [![codewars](https://www.codewars.com/users/Onigatari/badges/large)](https://www.codewars.com/users/Onigatari/badges/small)
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS" width="400"/>
-</a>
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Onigatari" width="400"/>
-</a>
+![leetcode](https://leetcard.jacoblin.cool/Onigatari?border=0&radius=20)
