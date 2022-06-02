@@ -46,7 +46,5 @@
 </p>
 
 ---
-
-[![codewars](https://www.codewars.com/users/Onigatari/badges/large)](https://www.codewars.com/users/Onigatari/badges/small)
-
+  
 ![leetcode](https://leetcard.jacoblin.cool/Onigatari?border=0&radius=20)
