@@ -47,4 +47,4 @@
 
 ---
   
-![leetcode](https://leetcard.jacoblin.cool/Onigatari?border=0&radius=20)
+![[leetcode](https://leetcode.com/Onigatari/)](https://leetcard.jacoblin.cool/Onigatari?border=0&radius=20)
