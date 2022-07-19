@@ -38,11 +38,11 @@
 
 <p align="left">
   
-<a href="https://www.jetbrains.com/clion/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/CLion.svg" alt="clion" width="48" height="48"/></a>
-<a href="https://www.jetbrains.com/pycharm/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/PyCharm.svg" alt="pycharm" width="48" height="48"/></a>
-<a href="https://www.jetbrains.com/idea/"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="intelli" width="48" height="48"/></a>
-<a href="https://www.jetbrains.com/go/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/GoLand.svg" alt="goland" width="48" height="48"/>
-<a href="https://code.visualstudio.com/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/VS-code.svg" alt="goland" width="48" height="48"/></a>
+<a href="https://www.jetbrains.com/clion/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/IntelliJ_CLion.png" alt="clion" width="48" height="48"/></a>
+<a href="https://www.jetbrains.com/pycharm/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/IntelliJ_PyCharm.png" alt="pycharm" width="48" height="48"/></a>
+<a href="https://www.jetbrains.com/idea/"> <img src="https://img.icons8.com/color/48/000000/IntelliJ.png" alt="intelli" width="48" height="48"/></a>
+<a href="https://www.jetbrains.com/go/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/IntelliJ_GoLand.png" alt="goland" width="48" height="48"/>
+<a href="https://code.visualstudio.com/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Microsoft_Visual_Studio_Code.png" alt="goland" width="48" height="48"/></a>
 <a href="https://jupyter.org/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Jupyter.svg" alt="jupyter" width="48" height="48"/></a>
 
 </p>
