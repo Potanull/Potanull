@@ -26,10 +26,10 @@
 
 <a href="https://en.cppreference.com/w/cpp"> <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png" alt="cplusplus" width="48" height="48"/></a>
 <a href="https://www.python.org/doc/"> <img src="https://img.icons8.com/color/48/undefined/python--v1.png" alt="python" width="48" height="48"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="html" width="48" height="48"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.icons8.com/color/48/undefined/css3.png" alt="css" width="48" height="48"/></a>
 <a href="https://docs.oracle.com/en/java/"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="48" height="48"/></a>
 <a href="https://go.dev/doc/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Go-Logo_Blue.svg" alt="golang" width="48" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="html" width="48" height="48"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.icons8.com/color/48/undefined/css3.png" alt="css" width="48" height="48"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="js" width="48" height="48"/></a>
 
 </p>
