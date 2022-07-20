@@ -43,7 +43,7 @@
 <a href="https://www.jetbrains.com/idea/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/IntelliJ.png" alt="intelli" width="48" height="48"/></a>
 <a href="https://www.jetbrains.com/go/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/IntelliJ_GoLand.png" alt="goland" width="48" height="48"/>
 <a href="https://code.visualstudio.com/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Microsoft_Visual_Studio_Code.png" alt="goland" width="48" height="48"/></a>
-<a href="https://jupyter.org/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Jupyter.svg" alt="jupyter" width="48" height="48"/></a>
+<a href="https://jupyter.org/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Jupyter.png" alt="jupyter" width="48" height="48"/></a>
 
 </p>
 
