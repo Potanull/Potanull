@@ -3,7 +3,7 @@
 
 <h3  align="center"> Student of Computer Science, Semifinalist of the ICPC Olympiad, from Russia <img src="https://img.icons8.com/external-justicon-flat-justicon/24/undefined/external-russia-countrys-flags-justicon-flat-justicon.png"  height="18"/></h3>
 
-- ⚙️ I’m currently learning **C++, Python, Java, Go, Machine Learning, JavaScript**
+- ⚙️ I’m currently learning **C++, Python, Java, Go, Machine Learning**
 
 - ✅ I like to solve problems on algorithms [**LeerCode**](https://leetcode.com/Onigatari/), [**CodeForces**](https://codeforces.com/profile/Onigatari), [**CodeWar**](https://www.codewars.com/users/Onigatari)
 
@@ -30,7 +30,6 @@
 <a href="https://go.dev/doc/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Go-Logo_Blue.svg" alt="golang" width="48" height="48"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="html" width="48" height="48"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.icons8.com/color/48/undefined/css3.png" alt="css" width="48" height="48"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="js" width="48" height="48"/></a>
 
 </p>
 
