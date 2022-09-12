@@ -27,6 +27,7 @@
 <a href="https://en.cppreference.com/w/cpp"> <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png" alt="cplusplus" width="48" height="48"/></a>
 <a href="https://www.python.org/doc/"> <img src="https://img.icons8.com/color/48/undefined/python--v1.png" alt="python" width="48" height="48"/></a>
 <a href="https://go.dev/doc/"> <img src="https://github.com/Onigatari/Onigatari/blob/master/icons/Go-Logo_Blue.svg" alt="golang" width="48" height="48"/></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"> <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="javascript" width="48" height="48"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="html" width="48" height="48"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.icons8.com/color/48/undefined/css3.png" alt="css" width="48" height="48"/></a>
 
