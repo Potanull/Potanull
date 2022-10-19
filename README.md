@@ -3,7 +3,7 @@
 
 <h3  align="center"> Student of Computer Science, Semifinalist of the ICPC Olympiad, from Russia <img src="https://img.icons8.com/external-justicon-flat-justicon/24/undefined/external-russia-countrys-flags-justicon-flat-justicon.png"  height="18"/></h3>
 
-- ⚙️ I’m currently learning **C++, Python, Go, Machine Learning**
+- ⚙️ I’m currently learning **C++, Go, Python, Machine Learning**
 
 - ✅ I like to solve problems on algorithms [**LeerCode**](https://leetcode.com/Onigatari/), [**CodeForces**](https://codeforces.com/profile/Onigatari), [**CodeWar**](https://www.codewars.com/users/Onigatari)
 
