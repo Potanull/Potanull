@@ -5,7 +5,7 @@
 
 - ⚙️ I’m currently learning **C++, Go, Python, Machine Learning**
 
-- ✅ I like to solve problems on algorithms [**LeerCode**](https://leetcode.com/Potanull/), [**CodeForces**](https://codeforces.com/profile/Onigatari), [**CodeWar**](https://www.codewars.com/users/Onigatari)
+- ✅ I like to solve problems on algorithms [**LeerCode**](https://leetcode.com/Potanull/), [**CodeForces**](https://codeforces.com/profile/Onigatari), [**CodeWar**](https://www.codewars.com/users/Potanull)
 
 - 📄 Get in touch **[gamosov.gs@yandex.ru](mailto:gamosov.gs@yandex.ru)**
 
@@ -15,8 +15,8 @@
 
 <p  align="left">
 
-<a  href="https://vk.com/potanull"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/vk-circled.png"  alt="onigatari"  height="48"  width="48"/></a>
-<a  href="https://t.me/Onigatari"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/telegram-app.png"  alt="onigatari"  height="48"  width="48" /></a> 
+<a  href="https://vk.com/potanull"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/vk-circled.png"  alt="potanull"  height="48"  width="48"/></a>
+<a  href="https://t.me/Onigatari"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/telegram-app.png"  alt="potanull"  height="48"  width="48" /></a> 
 
 </p>
 
