@@ -7,9 +7,9 @@
 
 - ✅ I like to solve problems on algorithms [**LeerCode**](https://leetcode.com/Potanull/), [**CodeForces**](https://codeforces.com/profile/Onigatari), [**CodeWar**](https://www.codewars.com/users/Potanull)
 
-- 📄 Get in touch **[gamosov.gs@yandex.ru](mailto:gamosov.gs@yandex.ru)**
+- 📄 Get in touch **[potanull@yandex.ru](mailto:potanull@yandex.ru)**
 
-- 🌍 Languages: Russian (Native), English (A2)
+- 🌍 Languages: Russian (Native), English, Ossetian
 
 ### Contacts:
 
