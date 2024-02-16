@@ -3,9 +3,9 @@
 
 <h3  align="center"> Student of Computer Science, Semifinalist of the ICPC Olympiad, from Russia <img src="https://img.icons8.com/external-justicon-flat-justicon/24/undefined/external-russia-countrys-flags-justicon-flat-justicon.png"  height="18"/></h3>
 
-- ⚙️ I’m currently learning **C++, Go, Python, Machine Learning**
+- ⚙️ I’m currently learning **Go, C++, Python, Machine Learning**
 
-- ✅ I like to solve problems on algorithms [**LeerCode**](https://leetcode.com/Potanull/), [**CodeForces**](https://codeforces.com/profile/Onigatari), [**CodeWar**](https://www.codewars.com/users/Potanull)
+- ✅ I like to solve problems on algorithms [**LeetCode**](https://leetcode.com/Potanull/), [**CodeForces**](https://codeforces.com/profile/Onigatari)
 
 - 📄 Get in touch **[potanull@yandex.ru](mailto:potanull@yandex.ru)**
 
