@@ -1,7 +1,7 @@
 <h1  align="center"> Hello there! I'm <a  href="https://leetcode.com/Potanull/">Potanull</a> </h1>
 
 
-<h3  align="center"> Student of Computer Science, Semifinalist of the ICPC Olympiad, from Russia <img src="https://img.icons8.com/external-justicon-flat-justicon/24/undefined/external-russia-countrys-flags-justicon-flat-justicon.png"  height="18"/></h3>
+<h3  align="center"> BackEnd Developer, Semifinalist of the ICPC Olympiad, from Russia <img src="https://img.icons8.com/external-justicon-flat-justicon/24/undefined/external-russia-countrys-flags-justicon-flat-justicon.png"  height="18"/></h3>
 
 - ⚙️ I’m currently learning **Go, C++, Python, Machine Learning**
 
