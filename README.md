@@ -16,7 +16,7 @@
 <p  align="left">
 
 <a  href="https://vk.com/potanull"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/vk-circled.png"  alt="potanull"  height="48"  width="48"/></a>
-<a  href="https://t.me/Onigatari"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/telegram-app.png"  alt="potanull"  height="48"  width="48" /></a> 
+<a  href="https://t.me/potanull"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/telegram-app.png"  alt="potanull"  height="48"  width="48" /></a> 
 
 </p>
 
