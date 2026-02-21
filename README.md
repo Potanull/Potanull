@@ -33,18 +33,6 @@
 
 </p>
 
-### Tools:
-
-<p align="left">
-
-<a href="https://www.jetbrains.com/go/"> <img src="https://github.com/Potanull/Potanull/blob/master/icons/IntelliJ_GoLand.png" alt="goland" width="48" height="48"/>
-<a href="https://www.jetbrains.com/clion/"> <img src="https://github.com/Potanull/Potanull/blob/master/icons/IntelliJ_CLion.png" alt="clion" width="48" height="48"/></a>
-<a href="https://www.jetbrains.com/pycharm/"> <img src="https://github.com/Potanull/Potanull/blob/master/icons/IntelliJ_PyCharm.png" alt="pycharm" width="48" height="48"/></a>
-<a href="https://code.visualstudio.com/"> <img src="https://github.com/Potanull/Potanull/blob/master/icons/Microsoft_Visual_Studio_Code.png" alt="goland" width="48" height="48"/></a>
-<a href="https://jupyter.org/"> <img src="https://github.com/Potanull/Potanull/blob/master/icons/Jupyter.png" alt="jupyter" width="48" height="48"/></a>
-
-</p>
-
 ---
   
 ![https://leetcode.com/Potanull/](https://leetcard.jacoblin.cool/Potanull?border=0&radius=20)
